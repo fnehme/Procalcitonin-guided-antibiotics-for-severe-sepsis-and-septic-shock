@@ -4,20 +4,30 @@
 <study>
 <citation year="2008" pmid="18096708" trialregistration="" journal_abbrev="Am J Respir Crit Care Med">Nobre</citation>
  <design>randomized controlled trial</design>
- <patients total="__">
- <description>sepsis or septic shock</description>
- <bullet>Mean age 25 months</bullet>
+ <patients total="79">
+  <control group/PCT group="40/39">
+ <description>severe sepsis or septic shock</description>
+ <bullet>Mean age control/PCT 66.9/64 years</bullet>
  </patients>
  <intervention>procalcitonin-guided therapy
- <bullet>Amountttt?</bullet>
+ <bullet>Patients with PCT <1 ng/mL re-evaluated at day 3: antibiotics
+discontinued if PCT <0.1 ng/mL, Patients with PCT ≥1 ng/mL re-evaluated at day 5: antibiotics
+discontinued if PCT dropped >90% from the baseline peak
+level or if PCT <0,25 ng/mL</bullet>
  <bullet>Frequency?</bullet>
  <bullet>Duration?</bullet>
  </intervention>
- <comparison>usual care
+ <comparison>standard care
  </comparison>
  <outcome>
- <bullet type='primary' url='http://pubmed.gov/delete_url_if_not_needed'>days of antibiotic therapy measured how and when</bullet>
- <bullet type='secondary'>Criteria used or how measured?</bullet>
+ <bullet type='primary' >systemic antibiotic exposure: 1) The ‘duration of antibiotic treatment’ 2) The incidence density of ‘‘antibiotic exposure days,’’ defined as
+a period of continuous administration of a single antibiotic agent
+with no interruption, for more than 24 hours 3) The ‘‘days alive without antibiotics,’’ defined as a period of at
+least 24 hours without antibiotic administration for a given
+patient</bullet>
+ <bullet type='secondary'>28-day mortality, in-hospital mortality, length of stay in the ICU and hospital, 
+ clinical cure (defined as clinical  signs and symptoms present at baseline that had resolved by the final
+clinical assessment), reoccurrence of the initial infection, and nosocomial superinfection.</bullet>
  </outcome>
 </study>
 <!-- start of a new study -->
