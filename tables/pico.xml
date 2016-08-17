@@ -274,18 +274,18 @@ mortality, ICU length of stay</bullet>
 
 <!-- start of a new study -->
 <study>
-<citation year="2015" pmid="pending" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
+<citation year="2015" pmid="27428731" trialregistration="NCT00832039" journal_abbrev="JAMA Intern Med">Bloos</citation>
  <design>randomized controlled trial</design>
- <patients total="pending">
- <description>pending</description>
- <bullet>pending</bullet>
+ <patients total="1089">
+ <description>Adults with severe sepsis or septic shock</description>
+ <bullet>Mean age: 65.7 </bullet>
  </patients>
  <intervention>pending
  </intervention>
  <comparison>pending
  </comparison>
  <outcome>
- <bullet type='primary'>pending</bullet>
+ <bullet type='primary'>Death from any cause by 28 days</bullet>
  <bullet type='secondary'>pending</bullet>
  </outcome>
 </study>
